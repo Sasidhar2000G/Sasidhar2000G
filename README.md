@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sasidhar2000G
 - 👀 I’m interested in anything which gives me a good challenge, like DSA,Mathematics.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning FrontEndLibraries and ML
 
 
 <!---
